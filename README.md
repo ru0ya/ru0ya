@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div><div id="badges">
  <img src="https://komarev.com/ghpvc/?username=ru0ya&style=flat-square&color=blue" alt=""/>
 
@@ -8,6 +8,10 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </a>
+  <a href="https://twitter.com/angi_viki">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 - 🔭 I’m currently working on **Alx Fullstack Software Engineering Programme**
