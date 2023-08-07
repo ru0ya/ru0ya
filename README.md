@@ -16,7 +16,7 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on **Alx Fullstack Software Engineering Programme**
+- 🔭 I have recently graduated from **Alx Fullstack Software Engineering Programme**
 
 - 🌱 I’m currently learning **Software Engineering and Cybersecurity**
 
