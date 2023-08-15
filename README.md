@@ -18,7 +18,7 @@
 
 - 🔭 I have recently graduated from **Alx Fullstack Software Engineering Programme**
 
-- 🌱 I’m currently learning **Software Engineering and Cybersecurity**
+- 🌱 I look forward to collaborate, solve codes and build projects
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 
