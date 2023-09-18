@@ -16,7 +16,7 @@
   </a>
 </div>
 
-- 🔭 I have recently graduated from **Alx Fullstack Software Engineering Programme**
+- 🔭 I am a **Software Engineer** specialising in  **Backend Development**
 
 - 🌱 I look forward to collaborate, solve codes and build projects
 
