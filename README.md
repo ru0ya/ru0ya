@@ -18,7 +18,7 @@
 
 - 🔭 I am a **Software Engineer** specialising in  **Backend Development**
 
-- 🌱 I look forward to collaborate, solve codes and build projects
+- 🌱 I look forward to collaborate, problem-solve and build projects
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 
