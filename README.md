@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 
-- ⚡ Fun fact **If you go north you will eventually go south so go east.**
+- ⚡ Fun fact **I've been using VIM since about 5 years because I never find out how to quit.**
 
 <p align="left">
 </p><h3 align="left">Languages and Tools:</h3>
