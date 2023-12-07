@@ -17,9 +17,8 @@
   </a>  
 </div>
 
-- 🔭 I am a **Software Engineer** specialising in  **Backend Development**
 
-- 🌱 I look forward to collaborate, problem-solve and build projects
+- 🌱 I am currently learning FastAPI.
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 
