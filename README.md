@@ -18,7 +18,7 @@
 </div>
 
 
-- 🌱 I am currently learning FastAPI.
+- 🌱 I enjoy crafting solutions that compliment man's endeavours...
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 
