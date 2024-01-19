@@ -18,7 +18,7 @@
 </div>
 
 
-- 🌱 I enjoy crafting solutions that compliment man's endeavours...
+- 🌱 I craft solutions that compliment man's endeavours...
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 
