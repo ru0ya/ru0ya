@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 
-- ⚡ Fun fact **I've been using VIM since about 5 years because I never find out how to quit.**
+- ⚡ Fun fact **My mum cooks the best chapatis and I can prove it😂**
 
 <p align="left">
 </p><h3 align="left">Languages and Tools:</h3>
