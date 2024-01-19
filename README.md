@@ -18,7 +18,7 @@
 </div>
 
 
-- 🌱 I craft solutions that compliment man's endeavours...
+- 🌱 I craft Software solutions that compliment man's endeavours...
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
 - 🥸 Currently Studying Geodjango
