@@ -21,6 +21,7 @@
 - 🌱 I craft solutions that compliment man's endeavours...
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
+- 🥸 Currently Studying Geodjango
 
 - ⚡ Fun fact **My mum cooks the best chapatis and I can prove it😂**
 
