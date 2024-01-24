@@ -52,6 +52,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ru0ya&theme=dark&background=000000)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru0ya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
- [![wakatime](https://wakatime.com/badge/user/cd864093-271b-4687-a26a-daaa5f2f8f70.svg)](https://wakatime.com/@cd864093-271b-4687-a26a-daaa5f2f8f70)
-
-## ru0ya
+ 
+ [![wakatime](https://wakatime.com/badge/user/cd864093-271b-4687-a26a-daaa5f2f8f70.svg)](https://wakatime.com/@cd864093-271b-4687-a26a-daaa5f2f8f70)  
+ 
