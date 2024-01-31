@@ -1,8 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div><div id="badges">
- <img src="https://komarev.com/ghpvc/?username=ru0ya&style=flat-square&color=blue" alt=""/>  
-  
+ <img src="https://komarev.com/ghpvc/?username=ru0ya&style=flat-square&color=blue" alt=""/>
  [![wakatime](https://wakatime.com/badge/user/cd864093-271b-4687-a26a-daaa5f2f8f70.svg)](https://wakatime.com/@cd864093-271b-4687-a26a-daaa5f2f8f70)  
 
 <h1 align="center">Hi 👋, I'm Victor Ruoya</h1>
