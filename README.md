@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="100"/>
 </div><div id="badges">
- <img src="https://komarev.com/ghpvc/?username=ru0ya&style=flat-square&color=blue" alt=""/>
+ <img src="https://komarev.com/ghpvc/?username=ru0ya&style=flat-square&color=blue" alt=""/>  
+  
+ [![wakatime](https://wakatime.com/badge/user/cd864093-271b-4687-a26a-daaa5f2f8f70.svg)](https://wakatime.com/@cd864093-271b-4687-a26a-daaa5f2f8f70)  
 
 <h1 align="center">Hi 👋, I'm Victor Ruoya</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
@@ -53,5 +55,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ru0ya&theme=dark&background=000000)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru0ya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
  
- [![wakatime](https://wakatime.com/badge/user/cd864093-271b-4687-a26a-daaa5f2f8f70.svg)](https://wakatime.com/@cd864093-271b-4687-a26a-daaa5f2f8f70)  
  
