@@ -13,7 +13,7 @@
   </div>
   <div align="center">
   </a>
-  <a href="https://twitter.com/angi_viki">
+  <a href="https://twitter.com/ru0ya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     
   </a>  
