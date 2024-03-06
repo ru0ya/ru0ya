@@ -23,7 +23,7 @@
 - 🌱 I craft Software solutions that compliment man's endeavours...
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
-- 🥸 Currently Studying Geodjango
+- 🥸 Currently Studying Golang
 
 - ⚡ Fun fact **My mum cooks the best chapatis and I can prove it😂**
 
