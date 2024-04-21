@@ -28,7 +28,7 @@
   
 - ⚡ Fun fact **My mum cooks the best chapatis and I can prove it😂**
   
-- [!Portfolio](https://ru0ya.vercel.app/)
+- [Portfolio](https://ru0ya.vercel.app/)
   
 <p align="left">
 </p><h3 align="left">Languages and Tools:</h3>
