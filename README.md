@@ -25,8 +25,8 @@
 - 📫 How to reach me **mwangiruoya@gmail.com**
   
 - 🥸 Currently Studying Golang
-  
-- ⚡ Fun fact **My mum cooks the best chapatis and I can prove it😂**
+
+- [Blog](https://dev.to/ru0ya)
   
 - [Portfolio](https://ru0ya.vercel.app/)
   
@@ -56,6 +56,6 @@
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ru0ya&theme=dark&background=000000)](https://git.io/streak-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru0ya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
+<figure><embed src="https://wakatime.com/share/@ru0ya/611de3cb-3ad4-4543-ab7d-0a4378478b12.svg"></embed></figure>  
  
  
