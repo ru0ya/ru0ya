@@ -64,5 +64,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ru0ya&theme=dark&background=000000)](https://git.io/streak-stats)  
 
-[![WakaTime Stats](https://wakatime.com/share/@ru0ya/8a07eb8c-880e-4312-a310-a748556416cb.png)](https://wakatime.com/)
+<!-- [![WakaTime Stats](https://wakatime.com/share/@ru0ya/8a07eb8c-880e-4312-a310-a748556416cb.png)](https://wakatime.com/) -->
  
