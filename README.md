@@ -6,7 +6,7 @@
  [![wakatime](https://wakatime.com/badge/user/cd864093-271b-4687-a26a-daaa5f2f8f70.svg)](https://wakatime.com/@cd864093-271b-4687-a26a-daaa5f2f8f70)  
 
 <h1 align="center">Hi 👋, I'm Victor Ruoya</h1>
-<h3 align="center">A passionate software developer from Kenya</h3>
+<h3 align="center">A passionate software engineer from Kenya</h3>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -20,7 +20,7 @@
 </div>
 
 
-- 🌱 I craft Software solutions that compliment man's endeavours...
+- 🌱 I enjoy using technology to creatively solve problems and drive meaningful change.
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
   
