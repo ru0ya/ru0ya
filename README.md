@@ -23,8 +23,6 @@
 - 🌱 I enjoy using technology to creatively solve problems and drive meaningful change.
 
 - 📫 How to reach me **mwangiruoya@gmail.com**
-  
-- 🥸 Currently Studying Golang
 
 - [Blog](https://dev.to/ru0ya)
   
